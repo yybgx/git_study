@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">signAPP</string>
+    <string name="s">首页</string>
+    <string name="c">我的课程</string>
+    <string name="p">我的</string>
+    <string name="w">课程TOP10</string>
+    <string name="title_activity_basemenu">BasemenuActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_bottom">BottomActivity</string>
+</resources>
